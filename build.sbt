@@ -21,7 +21,7 @@ libraryDependencies ++= {
     "org.scala-lang.modules" %% "scala-xml" % "1.0.2",
     "com.typesafe.akka"   %%  "akka-actor"    % akkaV,
     //"com.typesafe.akka"   %%  "akka-testkit"  % akkaV   % "test",
-    "org.specs2"          %%  "specs2-core"   % "2.3.11" % "test",
+    "org.specs2"          %%  "specs2-core"   % "2.4.2" % "test",
     "org.slf4j"           %   "slf4j-api"     % "1.7.7",
     "ch.qos.logback"      % "logback-classic" % "1.1.2",
     "org.clapper"         %% "grizzled-slf4j" % "1.0.2",
